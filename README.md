@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerrGrossman
-- 👀 I’m interested in Data base managment (Sql), GIS, alos JAVA & Python
-- 🌱 I’m currently learning (PostgreSql, JAVA, Blender for 3D gaming, Qgis)
+- 👀 I’m interested in Data base managment (Sql), GIS, Python and AI
+- 🌱 I’m currently learning (PostgreSql, Python, Blender for 3D gaming, Qgis)
 - 💞️ I’m looking to collaborate on all 
 - 📫 How to reach me Mribehval2012@gmial.com
 
